@@ -1,0 +1,32 @@
+{
+  "sample_id": 1391,
+  "machine_failure_probability": 0.94,
+  "risk_level": "HIGH",
+  "top_features": [
+    {
+      "feature": "Rotational speed [rpm]",
+      "value": 2737.0,
+      "shap_value": 0.2701
+    },
+    {
+      "feature": "Torque [Nm]",
+      "value": 8.8,
+      "shap_value": 0.2691
+    },
+    {
+      "feature": "Air temperature [K]",
+      "value": 298.9,
+      "shap_value": -0.0548
+    },
+    {
+      "feature": "Tool wear [min]",
+      "value": 142.0,
+      "shap_value": -0.0448
+    },
+    {
+      "feature": "Process temperature [K]",
+      "value": 310.2,
+      "shap_value": -0.0151
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+# API key / secrets
+secrets/
+*.key
+
+# Jupyter temporary files
+*.ipynb_checkpoints/
+
+# Local vector DB
+chroma_ai4i/
+
+# Optional large/archive files
+*.zip
