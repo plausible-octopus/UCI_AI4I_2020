@@ -3,6 +3,9 @@
 UCI AI4I 2020 데이터를 활용해 제조 설비의 고장 여부를 예측하고,  
 SHAP으로 모델의 판단 근거를 설명한 뒤 Agent/RAG로 연결하기 위한 프로토타입입니다.
 
+프로토타입용 가상 정비이력은 synthetic_maintenance_history_30.json, 점검/조치 근거용 가상 매뉴얼은 synthetic_maintenance_manual.md 사용하면 됩니다.
+Agent 입력은 agent_input_sample_1391.json입니다.
+
 ## 사용 데이터
 
 - 데이터셋: UCI AI4I 2020 Predictive Maintenance
