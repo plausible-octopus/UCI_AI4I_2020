@@ -7,7 +7,7 @@ SHAP으로 모델의 판단 근거를 설명한 뒤 Agent/RAG로 연결하기 �
 
 점검/조치 근거용 가상 매뉴얼 : `synthetic_maintenance_manual.md`
 
-Agent 입력 : `agent_input_sample_1391.json`
+머신러닝 결과 전달용 JSON(Agent 입력) : `agent_input_sample_1391.json`
 
 ## 사용 데이터
 
