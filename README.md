@@ -85,4 +85,5 @@ RandomForestClassifier(
     class_weight="balanced",
     random_state=42
 )
-Random Forest는 정형 센서 데이터의 비선형 관계를 잘 학습하고, 클래스 불균형 대응과 SHAP 기반 해석이 용이해 본 프로젝트의 기본 분류 모델로 사용했습니다.
+
+#Random Forest는 정형 센서 데이터의 비선형 관계를 잘 학습하고, 클래스 불균형 대응과 SHAP 기반 해석이 용이해 본 프로젝트의 기본 분류 모델로 사용했습니다.
